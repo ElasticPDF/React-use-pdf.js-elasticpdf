@@ -1,23 +1,12 @@
-# Getting Started with Create React App
+## Main Code     
+example main code: **src/App.js**            
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tutorial Blog Link:           
+[https://www.elasticpdf.com/blog/react-use-pdfjs-and-elasticpdf-tutorial.html](https://www.elasticpdf.com/blog/react-use-pdfjs-and-elasticpdf-tutorial.html)      
 
-## Available Scripts
+## 主要代码                   
+主要代码文件为： **src/App.js**       
 
-In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-# 本项目由 Create React App 创建
-
-## 可用脚本
-
-在项目文件夹中, 可运行:
-
-### `npm start`
+## 教程博客链接
+[https://www.elasticpdf.com/blog/react-use-pdfjs-and-elasticpdf-tutorial-zh.html](https://www.elasticpdf.com/blog/react-use-pdfjs-and-elasticpdf-tutorial-zh.html)
